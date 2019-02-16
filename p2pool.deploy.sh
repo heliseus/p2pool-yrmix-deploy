@@ -62,7 +62,7 @@ cd p2pool-yrmix
 git clone https://github.com/heliseus/yrmix-hash
 git submodule init
 git submodule update
-cd yrmix_hash
+cd yrmix-hash
 python setup.py install --user
 
 #
