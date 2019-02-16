@@ -28,12 +28,12 @@
 # Variables
 # UPDATE THEM TO MATCH YOUR SETUP !!
 #
-PUBLIC_IP=<your public IP address>
-EMAIL=<your email address>
-PAYOUT_ADDRESS=<your DASH wallet address to receive fees>
-USER_NAME=<linux user name>
-RPCUSER=<your random rpc user name>
-RPCPASSWORD=<your random rpc password>
+PUBLIC_IP=91.121.245.179
+EMAIL=heliseus76@gmail.com
+PAYOUT_ADDRESS=YkruWhJibHJKkF4vn3KCmnkkz8sLYHA6RE
+USER_NAME=yrmix
+RPCUSER=yrmixcoin
+RPCPASSWORD=dfgdfalkasadfg65adf6gad3f1g6adf5g4
 
 FEE=0.5
 DONATION=0
