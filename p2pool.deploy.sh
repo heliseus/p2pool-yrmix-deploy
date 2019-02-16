@@ -81,7 +81,7 @@ python setup.py install --user
 #
 cd ~
 mkdir yrmixcore
-cd yrnixcore
+cd yrmixcore
 wget $YRMIX_WALLET_URL
 tar -xvzf $YRMIX_WALLET_ZIP
 rm $YRMIX_WALLET_ZIP
@@ -140,7 +140,7 @@ echo You can start p2pool instance by command:
 echo
 echo bash ~/p2pool.start.sh
 echo
-echo NOTE: you will need to wait until DASH daemon has finished
+echo NOTE: you will need to wait until YRMIX daemon has finished
 echo blockchain synchronization before the p2pool instance is usable.
 echo
 fi
